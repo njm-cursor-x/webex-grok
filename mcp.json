@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "webex": {
-      "url": "https://pending-deploy.invalid/mcp"
+      "url": "https://mcp.webexapis.com/mcp/webex-messaging"
     }
   }
 }

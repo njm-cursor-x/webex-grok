@@ -1,6 +1,6 @@
 {
   "name": "webex",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Read and send Webex messages as yourself, and join Webex meetings from the bot's browser.",
   "author": {
     "name": "Nick McCarthy"
