@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "webex": {
+      "url": "https://pending-deploy.invalid/mcp"
+    }
+  }
+}

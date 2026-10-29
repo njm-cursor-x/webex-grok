@@ -1,0 +1,14 @@
+{
+  "name": "webex",
+  "version": "0.1.0",
+  "description": "Read and send Webex messages as yourself, and join Webex meetings from the bot's browser.",
+  "author": {
+    "name": "Nick McCarthy"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/njm-cursor-x/webex-grok",
+  "keywords": ["webex", "messaging", "meetings"],
+  "logo": "assets/logo.svg",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}

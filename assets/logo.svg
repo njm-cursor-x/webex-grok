@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Webex">
+  <rect width="128" height="128" rx="28" fill="#0F2744"/>
+  <rect x="26" y="34" width="76" height="52" rx="16" fill="#F4F7FB"/>
+  <circle cx="48" cy="60" r="6" fill="#0F2744"/>
+  <circle cx="64" cy="60" r="6" fill="#1F8A70"/>
+  <circle cx="80" cy="60" r="6" fill="#0F2744"/>
+  <path d="M46 86h18l-8 12-10-12z" fill="#F4F7FB"/>
+</svg>
